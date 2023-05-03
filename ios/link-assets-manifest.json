@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/Fonts/Andika-Bold.ttf",
+      "sha1": "a21f2ea08871a71424420dcd54ea249cf5d1aaab"
+    },
+    {
+      "path": "assets/Fonts/Andika-BoldItalic.ttf",
+      "sha1": "57d4e177a951a5be317d639dd5455c803e8cce34"
+    },
+    {
+      "path": "assets/Fonts/Andika-Italic.ttf",
+      "sha1": "eb4ce892ad1ba1ddd12d544c242f5fbfb8aa6d56"
+    },
+    {
+      "path": "assets/Fonts/Andika-Regular.ttf",
+      "sha1": "7a31af281089216584bec4670dd776e795e852cf"
+    }
+  ]
+}

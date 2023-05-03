@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979664690303",
+    "project_id": "hotel-auth-react-native",
+    "storage_bucket": "hotel-auth-react-native.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979664690303:android:bf0d23b02feb03e5e5734a",
+        "android_client_info": {
+          "package_name": "com.assignment_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979664690303-4fhqeqjq4plsrm40m1rbdnmu89nec5u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQgBqsjQou4qAT290RXPnW5OOLqwm9Z8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979664690303-4fhqeqjq4plsrm40m1rbdnmu89nec5u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
