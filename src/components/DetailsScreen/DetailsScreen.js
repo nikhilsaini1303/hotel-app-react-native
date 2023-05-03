@@ -64,7 +64,7 @@ const DetailsScreen = ({navigation}) => {
             navigation.replace("Home");
         })
         .catch(err => {
-            console.log(err);
+            // console.log(err);
         })
     }
 

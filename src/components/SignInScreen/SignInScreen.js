@@ -50,7 +50,7 @@ const SignInScreen = ({navigation}) => {
       if(err.code === 'auth/wrong-password') {
         showToast('error', 'Error', 'The password is invalid or the user does not have a password.');
       }
-      console.log(err);
+      // console.log(err);
     })
   }
 

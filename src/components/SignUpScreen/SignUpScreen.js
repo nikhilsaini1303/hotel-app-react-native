@@ -89,7 +89,7 @@ const SignUpScreen = ({navigation}) => {
         navigation.navigate('Details');
       })
       .catch(err => {
-        console.log(err);
+        // console.log(err);
       })
   }
 
